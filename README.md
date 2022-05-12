@@ -23,5 +23,8 @@
   <br>
   <div>
     <img align="left" alt="Gif" src="https://media.giphy.com/media/ErZ8hv5eO92JW/giphy.gif" height="100"  >
-    ![Snake animation](https://github.com/brigidamirella/brigidamirella/blob/output/github-contribution-grid-snake.svg)
   </div>
+ 
+<div>
+ ![Snake animation](https://github.com/brigidamirella/brigidamirella/blob/output/github-contribution-grid-snake.svg)
+ </div>
