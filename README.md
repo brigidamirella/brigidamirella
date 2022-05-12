@@ -1,6 +1,6 @@
 
 
- <div>
+ <div >
   <a href="https://github.com/brigidamirella">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brigidamirella&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brigidamirella&layout=compact&langs_count=16&theme=dracula"/>
@@ -25,7 +25,7 @@
     <img align="left" alt="Gif" src="https://media.giphy.com/media/ErZ8hv5eO92JW/giphy.gif" height="100"  >
   </div>
  
-<div align="center">
+<div align="left">
   
   ![Snake animation](https://github.com/brigidamirella/brigidamirella/blob/output/github-contribution-grid-snake.svg)
   
